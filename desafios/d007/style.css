@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.pequeno {
+  display: ;
+  max-width: 639px;
+}
+
+.medio {
+  display: block;
+  max-width: 767px;
+}
